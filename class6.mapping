@@ -1,0 +1,4 @@
+CLASS class6 g
+	METHOD method28 o (Lclass310;Lclass310;)V (Lkn;Lkn;)V
+	METHOD method52 m (Lclass310;)Lclass310; (Lkn;)Lkn;
+	METHOD <init> <init> ()V ()V

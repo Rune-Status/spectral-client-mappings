@@ -1,0 +1,11 @@
+CLASS class89 cv
+	FIELD field908 m Lclass267; Ljz;
+	FIELD field906 o Lclass244; Lic;
+	METHOD method502 m (IB)V (IB)V
+	METHOD <init> <init> ()V ()V
+	METHOD method501 o (IIZ)V (IIZ)V
+	METHOD method504 g ()V ()V
+	METHOD method438 c ()Z ()Z
+	METHOD method505 o (Lclass310;)Ljava/lang/String; (Lkn;)Ljava/lang/String;
+	METHOD method503 ai (Lclass109;)V (Ldh;)V
+	METHOD method841 a ()Lclass137; ()Lef;

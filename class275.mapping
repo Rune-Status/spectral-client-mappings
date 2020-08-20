@@ -1,0 +1,10 @@
+CLASS class275 ju
+	FIELD field3015 o Lclass190; Lgr;
+	FIELD field3016 q Lclass190; Lgr;
+	FIELD field3017 m Lclass271; Ljx;
+	METHOD remove remove ()V ()V
+	METHOD next next ()Ljava/lang/Object; ()Ljava/lang/Object;
+	METHOD method1312 n ()V ()V
+	METHOD hasNext hasNext ()Z ()Z
+	METHOD method1311 g (Lclass271;)V (Ljx;)V
+	METHOD <init> <init> (Lclass271;)V (Ljx;)V

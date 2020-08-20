@@ -1,0 +1,5 @@
+CLASS class90 cp
+	METHOD method506 a ()V ()V
+	METHOD <init> <init> ()V ()V
+	METHOD method507 q ()V ()V
+	METHOD <clinit> <clinit> ()V ()V

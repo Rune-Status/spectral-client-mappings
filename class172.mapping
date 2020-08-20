@@ -1,0 +1,5 @@
+CLASS class172 ff
+	FIELD field1649 u [[[B [[[B
+	METHOD method912 g (J)I (J)I
+	METHOD <init> <init> ()V ()V
+	METHOD method911 a (I)I (I)I

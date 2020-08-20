@@ -1,0 +1,4 @@
+CLASS class304 kw
+	METHOD <init> <init> ()V ()V
+	METHOD method1410 gi (Z)V (Z)V
+	METHOD method1409 kg ()V ()V

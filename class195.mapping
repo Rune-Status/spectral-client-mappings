@@ -1,0 +1,4 @@
+CLASS class195 gl
+	FIELD field1939 jp Lclass227; Lhd;
+	METHOD <init> <init> ()V ()V
+	METHOD <clinit> <clinit> ()V ()V

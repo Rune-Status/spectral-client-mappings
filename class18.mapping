@@ -1,0 +1,6 @@
+CLASS class18 v
+	METHOD <init> <init> ()V ()V
+	METHOD compare compare (Ljava/lang/Object;Ljava/lang/Object;)I (Ljava/lang/Object;Ljava/lang/Object;)I
+	METHOD method65 m (Lclass17;Lclass17;)I (Ls;Ls;)I
+	METHOD method66 p (Ljava/lang/String;ILjava/lang/String;)Z (Ljava/lang/String;ILjava/lang/String;)Z
+	METHOD equals equals (Ljava/lang/Object;)Z (Ljava/lang/Object;)Z

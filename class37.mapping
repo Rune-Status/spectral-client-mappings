@@ -1,0 +1,13 @@
+CLASS class37 as
+	FIELD field167 o [I [I
+	FIELD field162 j Lclass208; Lgw;
+	FIELD field163 aj I I
+	FIELD field166 dt J J
+	FIELD field165 mb I I
+	METHOD method168 j (IIII)V (IIII)V
+	METHOD method167 jk ()V ()V
+	METHOD method170 ep (Lclass246;Ljava/lang/String;)V (Lig;Ljava/lang/String;)V
+	METHOD <init> <init> ([I)V ([I)V
+	METHOD <init> <init> ()V ()V
+	METHOD method166 m (II)I (II)I
+	METHOD method169 o (I)Lclass227; (I)Lhd;

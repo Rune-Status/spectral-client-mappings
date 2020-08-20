@@ -1,0 +1,16 @@
+CLASS class309 kb
+	FIELD field3116 m Lclass338; Llb;
+	FIELD field3115 q I I
+	METHOD method1447 a (I)I (I)I
+	METHOD method1442 o (Lclass338;)V (Llb;)V
+	METHOD method1446 u ()V ()V
+	METHOD <clinit> <clinit> ()V ()V
+	METHOD method1449 q (I)V (I)V
+	METHOD <init> <init> (I)V (I)V
+	METHOD method1443 j ()I ()I
+	METHOD method1444 p ()Z ()Z
+	METHOD method1451 w (I)I (I)I
+	METHOD method1441 m ([I)V ([I)V
+	METHOD method1448 z ()V ()V
+	METHOD method1445 g ()I ()I
+	METHOD method1450 n ([BII)V ([BII)V

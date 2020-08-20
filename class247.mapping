@@ -1,0 +1,13 @@
+CLASS class247 it
+	FIELD field2672 x I I
+	FIELD field2666 l [Lclass246; [Lig;
+	FIELD field2667 b I I
+	FIELD field2664 c Z Z
+	FIELD field2675 d Ljava/util/zip/CRC32; Ljava/util/zip/CRC32;
+	FIELD field2665 t B B
+	FIELD field2678 a Lclass328; Lle;
+	FIELD field2677 k Lclass310; Lkn;
+	FIELD field2682 m Lclass315; Llj;
+	FIELD field2676 u Lclass270; Ljd;
+	METHOD <init> <init> ()V ()V
+	METHOD <clinit> <clinit> ()V ()V

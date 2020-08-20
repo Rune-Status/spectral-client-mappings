@@ -1,0 +1,20 @@
+CLASS class200 gz
+	FIELD field1960 u Ljava/lang/String; Ljava/lang/String;
+	FIELD field1950 g Lclass200; Lgz;
+	FIELD field1958 z I I
+	FIELD field1959 a Ljava/lang/String; Ljava/lang/String;
+	FIELD field1952 q Lclass200; Lgz;
+	FIELD field1951 m Lclass200; Lgz;
+	METHOD toString toString ()Ljava/lang/String; ()Ljava/lang/String;
+	METHOD <clinit> <clinit> ()V ()V
+	METHOD method961 u (I)Lclass200; (I)Lgz;
+	METHOD method962 jg (II)V (II)V
+	METHOD method968 m ()I ()I
+	METHOD method957 o ()[Lclass200; ()[Lgz;
+	METHOD <init> <init> (Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lclass202;ILjava/lang/String;)V (Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lge;ILjava/lang/String;)V
+	METHOD method956 n ()Ljava/lang/String; ()Ljava/lang/String;
+	METHOD method960 u (J)I (J)I
+	METHOD method958 y (Lclass305;Lclass305;)V (Lko;Lko;)V
+	METHOD method963 o (Lclass326;II)I (Llf;II)I
+	METHOD method964 j (I)Lclass74; (I)Lbr;
+	METHOD method959 gj (III)I (III)I

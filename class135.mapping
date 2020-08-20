@@ -1,0 +1,6 @@
+CLASS class135 es
+	FIELD field1340 p Lclass142; Ler;
+	FIELD field1341 g I I
+	FIELD field1339 w Z Z
+	METHOD <init> <init> ([BLclass142;)V ([BLer;)V
+	METHOD <clinit> <clinit> ()V ()V

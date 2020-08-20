@@ -1,0 +1,25 @@
+CLASS class181 fh
+	FIELD field1689 z Z Z
+	FIELD field1693 a I I
+	FIELD field1697 o Ljava/net/Socket; Ljava/net/Socket;
+	FIELD field1694 u I I
+	FIELD field1696 q Ljava/io/OutputStream; Ljava/io/OutputStream;
+	FIELD field1688 j Z Z
+	FIELD field1687 st Lclass83; Lcz;
+	FIELD field1690 n [B [B
+	FIELD field1691 g Lclass175; Lfa;
+	FIELD field1695 m Ljava/io/InputStream; Ljava/io/InputStream;
+	METHOD method930 u (Lclass310;J)V (Lkn;J)V
+	METHOD method1538 p ([BII)I ([BII)I
+	METHOD run run ()V ()V
+	METHOD method926 g ([BII)V ([BII)V
+	METHOD method1540 m ()V ()V
+	METHOD <init> <init> (Ljava/net/Socket;Lclass176;I)V (Ljava/net/Socket;Lfm;I)V
+	METHOD method1536 q ()I ()I
+	METHOD method1541 j (I)Z (I)Z
+	METHOD method1539 n ([BII)V ([BII)V
+	METHOD method927 ko ()V ()V
+	METHOD method928 m (I)Lclass269; (I)Ljm;
+	METHOD finalize finalize ()V ()V
+	METHOD method1537 o ()I ()I
+	METHOD method929 z (I)Lclass148; (I)Leg;

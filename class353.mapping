@@ -1,0 +1,12 @@
+CLASS class353 my
+	FIELD field3405 q J J
+	FIELD field3404 m Ljava/io/RandomAccessFile; Ljava/io/RandomAccessFile;
+	FIELD field3406 o J J
+	METHOD <init> <init> (Ljava/io/File;Ljava/lang/String;J)V (Ljava/io/File;Ljava/lang/String;J)V
+	METHOD method1729 q ()V ()V
+	METHOD method1730 m (J)V (J)V
+	METHOD method1725 o ([BII)V ([BII)V
+	METHOD method1727 p ()J ()J
+	METHOD method1726 j (Z)V (Z)V
+	METHOD method1728 g ([BII)I ([BII)I
+	METHOD finalize finalize ()V ()V

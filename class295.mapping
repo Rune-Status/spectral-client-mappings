@@ -1,0 +1,16 @@
+CLASS class295 kk
+	FIELD field3062 o Lclass348; Lmo;
+	FIELD field3064 c I I
+	FIELD field3060 h I I
+	FIELD field3063 y B B
+	FIELD field3061 q Lclass290; Lkp;
+	METHOD method1362 m ()Lclass284; ()Ljf;
+	METHOD method1393 z (Lclass310;)V (Lkn;)V
+	METHOD method1395 cq ()V ()V
+	METHOD <init> <init> (Lclass348;Lclass290;)V (Lmo;Lkp;)V
+	METHOD method1394 cu ()V ()V
+	METHOD method1363 o (I)[Lclass284; (I)[Ljf;
+	METHOD method1391 co (Lclass283;)V (Lji;)V
+	METHOD method1390 ci (Lclass310;)V (Lkn;)V
+	METHOD method1398 ag (Ljava/net/Socket;II)Lclass315; (Ljava/net/Socket;II)Llj;
+	METHOD method1397 el ()Lclass343; ()Lma;

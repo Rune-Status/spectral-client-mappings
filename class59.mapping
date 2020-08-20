@@ -1,0 +1,6 @@
+CLASS class59 bd
+	FIELD field285 cv C C
+	FIELD field286 qr Lclass115; Ldt;
+	METHOD <init> <init> ()V ()V
+	METHOD <clinit> <clinit> ()V ()V
+	METHOD method317 ia ()I ()I

@@ -1,0 +1,8 @@
+CLASS class239 is
+	FIELD field2597 h Lclass243; Liq;
+	FIELD field2608 u I I
+	FIELD field2605 n I I
+	METHOD <clinit> <clinit> ()V ()V
+	METHOD method968 m ()I ()I
+	METHOD <init> <init> (IIZZZ)V (IIZZZ)V
+	METHOD method1094 n (ILclass102;Z)I (ILcs;Z)I

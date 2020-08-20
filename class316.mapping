@@ -1,0 +1,12 @@
+CLASS class316 lc
+	FIELD field3168 q Lclass317; Llu;
+	FIELD field3167 o Lclass319; Lli;
+	FIELD field3166 m Ljava/net/Socket; Ljava/net/Socket;
+	METHOD method1537 o ()I ()I
+	METHOD method1540 m ()V ()V
+	METHOD finalize finalize ()V ()V
+	METHOD method1536 q ()I ()I
+	METHOD method1538 p ([BII)I ([BII)I
+	METHOD method1539 n ([BII)V ([BII)V
+	METHOD <init> <init> (Ljava/net/Socket;II)V (Ljava/net/Socket;II)V
+	METHOD method1541 j (I)Z (I)Z

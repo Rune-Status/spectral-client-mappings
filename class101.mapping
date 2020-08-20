@@ -1,0 +1,10 @@
+CLASS class101 cx
+	FIELD field1018 z [[S [[S
+	FIELD field1017 g Z Z
+	FIELD field1019 j I I
+	FIELD field1020 m Ljava/util/Map; Ljava/util/Map;
+	FIELD field1022 o Lclass326; Llf;
+	FIELD field1021 q Lclass276; Ljq;
+	METHOD method553 w (II)I (II)I
+	METHOD <clinit> <clinit> ()V ()V
+	METHOD <init> <init> ()V ()V

@@ -1,0 +1,9 @@
+CLASS class20 e
+	METHOD compare compare (Ljava/lang/Object;Ljava/lang/Object;)I (Ljava/lang/Object;Ljava/lang/Object;)I
+	METHOD method81 m (Lclass244;Lclass244;)V (Lic;Lic;)V
+	METHOD method84 o (Ljava/lang/String;)Z (Ljava/lang/String;)Z
+	METHOD equals equals (Ljava/lang/Object;)Z (Ljava/lang/Object;)Z
+	METHOD <init> <init> ()V ()V
+	METHOD method82 ix ([Lclass227;IIIZ)V ([Lhd;IIIZ)V
+	METHOD method80 m (Lclass17;Lclass17;)I (Ls;Ls;)I
+	METHOD method83 r (Lclass264;)Z (II)Z

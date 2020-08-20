@@ -1,0 +1,14 @@
+CLASS class83 cz
+	FIELD field854 g Ljava/lang/String; Ljava/lang/String;
+	FIELD field853 p I I
+	FIELD field848 pv Lclass295; Lkk;
+	FIELD field852 q Z Z
+	FIELD field850 j Z Z
+	FIELD field851 n Z Z
+	FIELD field855 u Ljava/util/LinkedHashMap; Ljava/util/LinkedHashMap;
+	FIELD field847 m I I
+	METHOD method467 o ()Lclass310; ()Lkn;
+	METHOD method469 ed (I)V (I)V
+	METHOD <clinit> <clinit> ()V ()V
+	METHOD <init> <init> (Lclass310;)V (Lkn;)V
+	METHOD <init> <init> ()V ()V

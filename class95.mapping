@@ -1,0 +1,27 @@
+CLASS class95 ca
+	FIELD field944 bg I I
+	FIELD field956 ar Ljava/lang/String; Ljava/lang/String;
+	FIELD field960 x Ljava/lang/String; Ljava/lang/String;
+	FIELD field951 t I I
+	FIELD field961 a Lclass334; Llh;
+	FIELD field940 k Lclass82; Lcw;
+	FIELD field963 j [Lclass334; [Llh;
+	FIELD field962 w Lclass334; Llh;
+	FIELD field945 bl I I
+	FIELD field952 ac Ljava/lang/String; Ljava/lang/String;
+	FIELD field947 bv I I
+	FIELD field943 as I I
+	FIELD field950 q I I
+	FIELD field957 av Ljava/lang/String; Ljava/lang/String;
+	FIELD field959 bf Ljava/lang/String; Ljava/lang/String;
+	FIELD field939 bh Z Z
+	FIELD field949 l I I
+	FIELD field941 ab I I
+	FIELD field942 ae I I
+	FIELD field948 e I I
+	FIELD field958 be Ljava/lang/String; Ljava/lang/String;
+	FIELD field946 bm I I
+	FIELD field938 bd Z Z
+	METHOD <clinit> <clinit> ()V ()V
+	METHOD method521 m (IIILclass184;Lclass182;Z[I[I)I (IIILga;Lfz;Z[I[I)I
+	METHOD <init> <init> ()V ()V

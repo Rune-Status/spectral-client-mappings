@@ -1,0 +1,9 @@
+CLASS class127 dq
+	FIELD field1219 h Lclass124; Lda;
+	FIELD field1230 r I I
+	FIELD field1231 s I I
+	METHOD <init> <init> ()V ()V
+	METHOD method691 q (Lclass310;)V (Lkn;)V
+	METHOD <clinit> <clinit> ()V ()V
+	METHOD method689 a (III)I (I)I
+	METHOD method690 m (II)[I (II)[I

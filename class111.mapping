@@ -1,0 +1,7 @@
+CLASS class111 dr
+	FIELD field1078 o [Lclass127; [Ldq;
+	METHOD method582 o ()Lclass113; ()Ldp;
+	METHOD method584 j ()[B ()[B
+	METHOD method583 q ()I ()I
+	METHOD <init> <init> (Lclass310;)V (Lkn;)V
+	METHOD method585 m (Lclass244;II)Lclass111; (Lic;II)Ldr;

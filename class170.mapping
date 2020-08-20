@@ -1,0 +1,9 @@
+CLASS class170 fg
+	FIELD field1644 q Lclass170; Lfg;
+	FIELD field1645 lz Lclass92; Lcu;
+	FIELD field1647 g I I
+	FIELD field1646 em Ljava/lang/String; Ljava/lang/String;
+	FIELD field1648 p I I
+	METHOD <clinit> <clinit> ()V ()V
+	METHOD method968 m ()I ()I
+	METHOD <init> <init> (II)V (II)V

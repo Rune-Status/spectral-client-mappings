@@ -1,0 +1,4 @@
+CLASS class147 ed
+	METHOD <init> <init> ()V ()V
+	METHOD method847 m ([Lclass204;I)Lclass204; ([Lgt;I)Lgt;
+	METHOD method848 q ()Ljava/lang/String; ()Ljava/lang/String;

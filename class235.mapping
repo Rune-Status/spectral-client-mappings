@@ -1,0 +1,4 @@
+CLASS class235 ia
+	FIELD field2594 c Lclass305; Lko;
+	METHOD method1090 jd (Lclass227;)V (Lhd;)V
+	METHOD <init> <init> ()V ()V

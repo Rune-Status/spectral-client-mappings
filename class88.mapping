@@ -1,0 +1,12 @@
+CLASS class88 ck
+	FIELD field904 q Lclass257; Lik;
+	FIELD field905 j Lclass271; Ljx;
+	METHOD method495 q ()Z ()Z
+	METHOD method499 m (Ljava/lang/String;Ljava/lang/String;II)V (Ljava/lang/String;Ljava/lang/String;II)V
+	METHOD method500 go (III)V (III)V
+	METHOD <init> <init> (Lclass257;)V (Lik;)V
+	METHOD method496 m (Lclass244;II)[Lclass334; (Lic;II)[Llh;
+	METHOD method493 m (IIII)V (IIII)V
+	METHOD method498 eb ()V ()V
+	METHOD method494 o (I)Lclass80; (I)Lcb;
+	METHOD method497 p ()V ()V

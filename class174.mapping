@@ -1,0 +1,10 @@
+CLASS class174 fw
+	FIELD field1654 g I I
+	FIELD field1658 j J J
+	FIELD field1653 fx J J
+	FIELD field1659 m [J [J
+	METHOD method924 o (II)I (II)I
+	METHOD method913 m ()J ()J
+	METHOD method923 m ()V ()V
+	METHOD <init> <init> ()V ()V
+	METHOD method914 jh (Lclass227;)Z (Lhd;)Z

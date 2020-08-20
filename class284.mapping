@@ -1,0 +1,12 @@
+CLASS class284 jf
+	FIELD field3036 q Lclass293; Lkq;
+	FIELD field3035 j Lclass293; Lkq;
+	METHOD method1341 x (Lclass293;Lclass293;)V (Lkq;Lkq;)V
+	METHOD method1340 ah (Lclass284;)I (Ljf;)I
+	METHOD method1342 l ()Ljava/lang/String; ()Ljava/lang/String;
+	METHOD method1344 m ()V ()V
+	METHOD <init> <init> ()V ()V
+	METHOD method1345 j ([B)V ([B)V
+	METHOD method1343 e ()Lclass293; ()Lkq;
+	METHOD compareTo compareTo (Ljava/lang/Object;)I (Ljava/lang/Object;)I
+	METHOD method1339 t ()Ljava/lang/String; ()Ljava/lang/String;

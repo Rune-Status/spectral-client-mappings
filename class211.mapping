@@ -1,0 +1,10 @@
+CLASS class211 hi
+	FIELD field2064 u [I [I
+	FIELD field2063 m I I
+	FIELD field2061 o [Lclass113; [Ldp;
+	FIELD field2065 q [S [S
+	METHOD method1031 m (Ljava/io/File;)V (Ljava/io/File;)V
+	METHOD method1029 o (Lclass118;[B[I)Z (Ldo;[B[I)Z
+	METHOD method1032 o ()[Lclass333; ()[Llw;
+	METHOD method1030 q ()V ()V
+	METHOD <init> <init> ([B)V ([B)V

@@ -1,0 +1,7 @@
+CLASS class242 in
+	FIELD field2628 q Lclass318; Llp;
+	FIELD field2626 j Lclass246; Lig;
+	FIELD field2625 o [B [B
+	FIELD field2627 m I I
+	METHOD <init> <init> ()V ()V
+	METHOD method1100 p (Lclass309;I)Z (Lkb;I)Z

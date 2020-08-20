@@ -1,0 +1,10 @@
+CLASS class202 ge
+	FIELD field1979 k Ljava/util/Set; Ljava/util/Set;
+	FIELD field1964 sw Lclass84; Lcg;
+	FIELD field1978 h I I
+	METHOD <clinit> <clinit> ()V ()V
+	METHOD method967 n (C)Z (C)Z
+	METHOD <init> <init> (Ljava/lang/String;I[Lclass201;)V (Ljava/lang/String;I[Lgi;)V
+	METHOD <init> <init> (Ljava/lang/String;I)V (Ljava/lang/String;I)V
+	METHOD method968 m ()I ()I
+	METHOD method966 j (ZZ)I (ZZ)I

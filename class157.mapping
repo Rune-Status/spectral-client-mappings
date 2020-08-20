@@ -1,0 +1,5 @@
+CLASS class157 fe
+	FIELD field1612 m Ljava/lang/Object; Ljava/lang/Object;
+	METHOD method876 m ()Ljava/lang/Object; ()Ljava/lang/Object;
+	METHOD method875 o ()Z ()Z
+	METHOD <init> <init> (Ljava/lang/Object;I)V (Ljava/lang/Object;I)V

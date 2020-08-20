@@ -1,0 +1,17 @@
+CLASS class313 lk
+	FIELD field3129 h B B
+	FIELD field3138 ap I I
+	FIELD field3134 n [B [B
+	FIELD field3147 u I I
+	FIELD field3133 ao [B [B
+	FIELD field3136 am [[B [[B
+	FIELD field3135 z [B [B
+	FIELD field3139 c I I
+	FIELD field3149 w I I
+	FIELD field3151 y I I
+	FIELD field3127 ah [Z [Z
+	FIELD field3144 l I I
+	FIELD field3142 f I I
+	FIELD field3128 ai [Z [Z
+	METHOD <init> <init> ()V ()V
+	METHOD method1527 iq (Ljava/lang/String;Lclass227;)Ljava/lang/String; (Ljava/lang/String;Lhd;)Ljava/lang/String;

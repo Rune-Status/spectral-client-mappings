@@ -1,0 +1,7 @@
+CLASS class116 ds
+	FIELD field1152 m I I
+	METHOD method620 j (I)I (I)I
+	METHOD method621 o (Lclass310;)V (Lkn;)V
+	METHOD method618 m (Lclass310;)V (Lkn;)V
+	METHOD <init> <init> ()V ()V
+	METHOD method619 q ()V ()V

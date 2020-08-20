@@ -1,0 +1,4 @@
+CLASS class226 hw
+	FIELD field2108 t Ljava/lang/String; Ljava/lang/String;
+	METHOD method1071 iu (I)Ljava/lang/String; (I)Ljava/lang/String;
+	METHOD <init> <init> ()V ()V

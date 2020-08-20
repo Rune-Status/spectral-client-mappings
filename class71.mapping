@@ -1,0 +1,7 @@
+CLASS class71 bz
+	FIELD field392 o I I
+	FIELD field390 q Z Z
+	FIELD field391 m I I
+	METHOD <init> <init> ()V ()V
+	METHOD method375 m (III)Lclass335; (III)Llz;
+	METHOD method376 m (Lclass72;)V (Lbu;)V

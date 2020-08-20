@@ -1,0 +1,11 @@
+CLASS class177 fj
+	FIELD field1676 y Lclass352; Lmn;
+	FIELD field1679 p Ljava/io/File; Ljava/io/File;
+	FIELD field1675 h Lclass352; Lmn;
+	FIELD field1677 k [Lclass352; [Lmn;
+	FIELD field1674 c Lclass352; Lmn;
+	FIELD field1678 j Ljava/io/File; Ljava/io/File;
+	FIELD field1673 l Ljava/lang/String; Ljava/lang/String;
+	METHOD <init> <init> ()V ()V
+	METHOD <clinit> <clinit> ()V ()V
+	METHOD method921 fn ()V ()V

@@ -1,0 +1,9 @@
+CLASS class338 lb
+	FIELD field3277 g [I [I
+	FIELD field3274 j I I
+	FIELD field3278 p [I [I
+	METHOD method1642 o ()I ()I
+	METHOD method1643 m ()I ()I
+	METHOD method1641 q ()V ()V
+	METHOD <init> <init> ([I)V ([I)V
+	METHOD method1644 j ()V ()V

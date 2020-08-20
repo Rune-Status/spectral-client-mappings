@@ -1,0 +1,21 @@
+CLASS class193 gn
+	FIELD field1884 cq Lclass193; Lgn;
+	FIELD field1881 cn Lclass193; Lgn;
+	FIELD field1880 cm Lclass193; Lgn;
+	FIELD field1834 aq Lclass193; Lgn;
+	FIELD field1873 cd Lclass193; Lgn;
+	FIELD field1838 au Lclass193; Lgn;
+	FIELD field1847 bd Lclass193; Lgn;
+	FIELD field1859 bp Lclass193; Lgn;
+	FIELD field1840 aw Lclass193; Lgn;
+	FIELD field1837 at Lclass193; Lgn;
+	FIELD field1868 bz Lclass193; Lgn;
+	FIELD field1894 f Lclass193; Lgn;
+	FIELD field1824 ag Lclass193; Lgn;
+	FIELD field1891 cz Lclass193; Lgn;
+	FIELD field1897 i Lclass193; Lgn;
+	FIELD field1842 ay Lclass193; Lgn;
+	FIELD field1899 k Lclass193; Lgn;
+	FIELD field1826 ai Lclass193; Lgn;
+	METHOD <clinit> <clinit> ()V ()V
+	METHOD <init> <init> (II)V (II)V

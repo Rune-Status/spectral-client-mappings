@@ -1,0 +1,8 @@
+CLASS class3 q
+	FIELD field2 qo Lclass115; Ldt;
+	METHOD method1 m (Ljava/lang/Object;Lclass310;)V (Ljava/lang/Object;Lkn;)V
+	METHOD method2 o (Lclass310;)Ljava/lang/Object; (Lkn;)Ljava/lang/Object;
+	METHOD <init> <init> ()V ()V
+	METHOD method13 n (I)I (I)I
+	METHOD method11 u (Ljava/lang/Long;Lclass310;)V (Ljava/lang/Long;Lkn;)V
+	METHOD method12 hi (ZLclass309;)V (ZLkb;)V

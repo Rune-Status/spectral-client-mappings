@@ -1,0 +1,19 @@
+CLASS class64 bc
+	FIELD field332 j Lclass64; Lbc;
+	FIELD field338 z I I
+	FIELD field336 v I I
+	FIELD field339 l J J
+	FIELD field340 y J J
+	METHOD method356 j (Ljava/awt/event/MouseEvent;)I (Ljava/awt/event/MouseEvent;)I
+	METHOD focusLost focusLost (Ljava/awt/event/FocusEvent;)V (Ljava/awt/event/FocusEvent;)V
+	METHOD <init> <init> ()V ()V
+	METHOD mouseEntered mouseEntered (Ljava/awt/event/MouseEvent;)V (Ljava/awt/event/MouseEvent;)V
+	METHOD mouseMoved mouseMoved (Ljava/awt/event/MouseEvent;)V (Ljava/awt/event/MouseEvent;)V
+	METHOD method357 m ()V ()V
+	METHOD mouseDragged mouseDragged (Ljava/awt/event/MouseEvent;)V (Ljava/awt/event/MouseEvent;)V
+	METHOD mouseReleased mouseReleased (Ljava/awt/event/MouseEvent;)V (Ljava/awt/event/MouseEvent;)V
+	METHOD mouseExited mouseExited (Ljava/awt/event/MouseEvent;)V (Ljava/awt/event/MouseEvent;)V
+	METHOD <clinit> <clinit> ()V ()V
+	METHOD focusGained focusGained (Ljava/awt/event/FocusEvent;)V (Ljava/awt/event/FocusEvent;)V
+	METHOD mouseClicked mouseClicked (Ljava/awt/event/MouseEvent;)V (Ljava/awt/event/MouseEvent;)V
+	METHOD mousePressed mousePressed (Ljava/awt/event/MouseEvent;)V (Ljava/awt/event/MouseEvent;)V

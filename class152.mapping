@@ -1,0 +1,7 @@
+CLASS class152 ev
+	FIELD field1597 g Lclass145; Lel;
+	FIELD field1598 c J J
+	FIELD field1586 h I I
+	FIELD field1590 o I I
+	FIELD field1584 di Lclass315; Llj;
+	METHOD <init> <init> ()V ()V

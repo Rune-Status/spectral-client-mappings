@@ -1,0 +1,4 @@
+CLASS class132 ej
+	FIELD field1303 w Z Z
+	METHOD <init> <init> (IIIIIIIIIIIIIIIIIII)V (IIIIIIIIIIIIIIIIIII)V
+	METHOD <clinit> <clinit> ()V ()V

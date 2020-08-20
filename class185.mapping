@@ -1,0 +1,6 @@
+CLASS class185 gf
+	FIELD field1720 cq J J
+	FIELD field1719 co Lclass185; Lgf;
+	FIELD field1718 ca Lclass185; Lgf;
+	METHOD method943 ci ()V ()V
+	METHOD <init> <init> ()V ()V

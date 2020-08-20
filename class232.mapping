@@ -1,0 +1,4 @@
+CLASS class232 hb
+	METHOD <init> <init> ()V ()V
+	METHOD method1087 as (ILclass102;Z)I (ILcs;Z)I
+	METHOD method1088 ar (ILclass102;Z)I (ILcs;Z)I

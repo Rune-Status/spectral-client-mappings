@@ -1,0 +1,7 @@
+CLASS class273 jn
+	FIELD field3011 o Lclass188; Lgd;
+	FIELD field3010 m Lclass188; Lgd;
+	METHOD <init> <init> ()V ()V
+	METHOD method1310 q ()Lclass188; ()Lgd;
+	METHOD method1309 o ()Lclass188; ()Lgd;
+	METHOD method1308 m (Lclass188;)V (Lgd;)V

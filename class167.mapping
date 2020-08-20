@@ -1,0 +1,11 @@
+CLASS class167 fy
+	FIELD field1635 m Z Z
+	FIELD field1634 a I I
+	FIELD field1632 jf Lclass129; Ldu;
+	FIELD field1633 gj Lclass143; Lem;
+	METHOD method905 m (C)B (C)B
+	METHOD method903 if (Lclass227;IIZ)V (Lhd;IIZ)V
+	METHOD method904 m (Lclass244;Lclass244;ZLclass305;)V (Lic;Lic;ZLko;)V
+	METHOD method902 m (Lclass289;Lclass289;)I (Lkx;Lkx;)I
+	METHOD compare compare (Ljava/lang/Object;Ljava/lang/Object;)I (Ljava/lang/Object;Ljava/lang/Object;)I
+	METHOD <init> <init> (Z)V (Z)V

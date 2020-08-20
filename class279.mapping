@@ -1,0 +1,4 @@
+CLASS class279 jj
+	FIELD field3020 sb Lclass248; Lix;
+	METHOD method1321 ap (ILclass102;Z)I (ILcs;Z)I
+	METHOD <init> <init> ()V ()V

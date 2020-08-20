@@ -1,0 +1,3 @@
+CLASS class228 hu
+	FIELD field2260 u Ljava/util/concurrent/ScheduledExecutorService; Ljava/util/concurrent/ScheduledExecutorService;
+	METHOD <init> <init> ()V ()V

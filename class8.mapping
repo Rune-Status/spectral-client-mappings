@@ -1,0 +1,12 @@
+CLASS class8 u
+	FIELD field16 m Lclass8; Lu;
+	FIELD field14 ox Lclass178; Lfv;
+	FIELD field17 q I I
+	FIELD field15 eb [I [I
+	FIELD field18 o I I
+	METHOD method39 r (ILclass102;Z)I (ILcs;Z)I
+	METHOD <clinit> <clinit> ()V ()V
+	METHOD method968 m ()I ()I
+	METHOD method38 gm ()Z ()Z
+	METHOD <init> <init> (II)V (II)V
+	METHOD method34 jw ()V ()V

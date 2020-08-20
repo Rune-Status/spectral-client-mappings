@@ -1,0 +1,10 @@
+CLASS class44 ?
+	FIELD field207 n Lclass223; Lhg;
+	FIELD field208 u Lclass223; Lhg;
+	METHOD method236 ai (II)Z (II)Z
+	METHOD method240 p ()V ()V
+	METHOD method234 x ()Z ()Z
+	METHOD method231 t (II)Z (II)Z
+	METHOD method239 fk (III)V (III)V
+	METHOD <init> <init> (Lclass223;Lclass223;)V (Lhg;Lhg;)V
+	METHOD method235 ah (II)Z (II)Z

@@ -1,0 +1,8 @@
+CLASS class107 dm
+	FIELD field1061 o I I
+	FIELD field1062 q I I
+	FIELD field1060 m [[[B [[[B
+	FIELD field1066 g [Ljava/lang/reflect/Field; [Ljava/lang/reflect/Field;
+	FIELD field1067 u [Ljava/lang/reflect/Method; [Ljava/lang/reflect/Method;
+	METHOD method569 h (ILclass102;Z)I (ILcs;Z)I
+	METHOD <init> <init> ()V ()V

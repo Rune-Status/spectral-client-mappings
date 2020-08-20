@@ -1,0 +1,10 @@
+CLASS class35 ak
+	FIELD field148 q I I
+	FIELD field144 g I I
+	FIELD field145 id I I
+	FIELD field147 o I I
+	FIELD field146 m I I
+	METHOD method143 q (I)I (I)I
+	METHOD <init> <init> (III)V (III)V
+	METHOD method141 m ([Ljava/lang/String;[S)V ([Ljava/lang/String;[S)V
+	METHOD method142 jl ([Lclass227;I)V ([Lhd;I)V

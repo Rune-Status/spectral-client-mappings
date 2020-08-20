@@ -1,0 +1,25 @@
+CLASS class246 ig
+	FIELD field2656 ae I I
+	FIELD field2658 ax I I
+	FIELD field2662 f Z Z
+	FIELD field2655 ah Z Z
+	FIELD field2661 x Lclass318; Llp;
+	FIELD field2663 ai [Z [Z
+	FIELD field2654 ao Ljava/util/zip/CRC32; Ljava/util/zip/CRC32;
+	FIELD field2657 ag I I
+	FIELD field2659 i I I
+	FIELD field2660 b Lclass318; Llp;
+	METHOD method1137 dp (II)V (II)V
+	METHOD method1104 o (I)V (I)V
+	METHOD method1139 dn ()I ()I
+	METHOD <init> <init> (Lclass318;Lclass318;IZZZ)V (Llp;Llp;IZZZ)V
+	METHOD method1112 c (I)V (I)V
+	METHOD method1136 di ()I ()I
+	METHOD method1140 do (I)Z (I)Z
+	METHOD method1144 dt (Lclass318;I[BZ)V (Llp;I[BZ)V
+	METHOD method1109 a (I)I (I)I
+	METHOD method1142 dg (I)Z (I)Z
+	METHOD <clinit> <clinit> ()V ()V
+	METHOD method1138 ds ()V ()V
+	METHOD method1141 dr ()Z ()Z
+	METHOD method1143 dc (I[BZZ)V (I[BZZ)V

@@ -1,0 +1,7 @@
+CLASS class222 ht
+	FIELD field2088 m [I [I
+	FIELD field2086 o [I [I
+	FIELD field2087 q [I [I
+	METHOD method1054 w (C)Z (C)Z
+	METHOD <init> <init> ()V ()V
+	METHOD <clinit> <clinit> ()V ()V

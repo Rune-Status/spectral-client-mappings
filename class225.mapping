@@ -1,0 +1,4 @@
+CLASS class225 hx
+	METHOD method1070 o (I)Lclass261; (I)Lje;
+	METHOD <clinit> <clinit> ()V ()V
+	METHOD <init> <init> ()V ()V

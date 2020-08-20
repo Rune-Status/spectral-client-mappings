@@ -1,0 +1,6 @@
+CLASS class15 k
+	METHOD <init> <init> ()V ()V
+	METHOD equals equals (Ljava/lang/Object;)Z (Ljava/lang/Object;)Z
+	METHOD compare compare (Ljava/lang/Object;Ljava/lang/Object;)I (Ljava/lang/Object;Ljava/lang/Object;)I
+	METHOD method54 u (ILclass102;Z)I (ILcs;Z)I
+	METHOD method53 m (Lclass17;Lclass17;)I (Ls;Ls;)I

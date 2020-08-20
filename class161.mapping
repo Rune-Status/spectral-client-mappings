@@ -1,0 +1,10 @@
+CLASS class161 fc
+	FIELD field1620 m Z Z
+	METHOD equals equals (Ljava/lang/Object;)Z (Ljava/lang/Object;)Z
+	METHOD method887 m (Lclass193;Lclass338;)Lclass197; (Lgn;Llb;)Lgj;
+	METHOD method885 j (I)Z (I)Z
+	METHOD method883 m (Lclass289;Lclass289;)I (Lkx;Lkx;)I
+	METHOD compare compare (Ljava/lang/Object;Ljava/lang/Object;)I (Ljava/lang/Object;Ljava/lang/Object;)I
+	METHOD <init> <init> (Z)V (Z)V
+	METHOD method884 m (Lclass244;Lclass244;Lclass244;Lclass244;)V (Lic;Lic;Lic;Lic;)V
+	METHOD method886 at (I)V (I)V

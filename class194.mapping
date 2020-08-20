@@ -1,0 +1,5 @@
+CLASS class194 gx
+	FIELD field1928 n I I
+	METHOD <clinit> <clinit> ()V ()V
+	METHOD <init> <init> (I)V (I)V
+	METHOD method947 m (I)Lclass257; (I)Lik;

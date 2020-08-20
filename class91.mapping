@@ -1,0 +1,14 @@
+CLASS class91 ci
+	FIELD field912 en I I
+	FIELD field916 n Ljava/lang/String; Ljava/lang/String;
+	FIELD field919 q Ljava/lang/String; Ljava/lang/String;
+	FIELD field915 m Ljava/lang/String; Ljava/lang/String;
+	FIELD field913 g Ljava/lang/String; Ljava/lang/String;
+	FIELD field917 o Ljava/lang/String; Ljava/lang/String;
+	FIELD field920 u Ljava/lang/String; Ljava/lang/String;
+	METHOD <init> <init> ()V ()V
+	METHOD method510 o (Lclass335;III)V (Llz;III)V
+	METHOD method508 m ()V ()V
+	METHOD <clinit> <clinit> ()V ()V
+	METHOD method509 p (Ljava/lang/CharSequence;II[BI)I (Ljava/lang/CharSequence;II[BI)I
+	METHOD method511 z ([B)Lclass305; ([B)Lko;

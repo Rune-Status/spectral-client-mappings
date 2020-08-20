@@ -1,0 +1,7 @@
+CLASS class190 gr
+	FIELD field1728 cm J J
+	FIELD field1726 cf Lclass190; Lgr;
+	FIELD field1727 ct Lclass190; Lgr;
+	METHOD method946 fx ()V ()V
+	METHOD <init> <init> ()V ()V
+	METHOD method945 fy ()Z ()Z

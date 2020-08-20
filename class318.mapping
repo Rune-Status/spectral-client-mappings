@@ -1,0 +1,12 @@
+CLASS class318 lp
+	FIELD field3181 q Lclass352; Lmn;
+	FIELD field3178 j I I
+	FIELD field3179 p I I
+	FIELD field3180 o Lclass352; Lmn;
+	FIELD field3177 m [B [B
+	METHOD method1546 m (I)[B (I)[B
+	METHOD <init> <init> (ILclass352;Lclass352;I)V (ILmn;Lmn;I)V
+	METHOD <clinit> <clinit> ()V ()V
+	METHOD method1545 o (I[BI)Z (I[BI)Z
+	METHOD method1547 q (I[BIZ)Z (I[BIZ)Z
+	METHOD toString toString ()Ljava/lang/String; ()Ljava/lang/String;

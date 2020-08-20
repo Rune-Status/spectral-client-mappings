@@ -1,0 +1,6 @@
+CLASS class180 ?
+	FIELD field1684 do Lclass246; Lig;
+	FIELD field1683 c Lclass118; Ldo;
+	FIELD field1686 v I I
+	METHOD <init> <init> ()V ()V
+	METHOD method925 l (ILclass102;Z)I (ILcs;Z)I

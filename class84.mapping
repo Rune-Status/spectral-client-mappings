@@ -1,0 +1,22 @@
+CLASS class84 cg
+	FIELD field859 g Lclass286; Ljw;
+	FIELD field858 j Lclass348; Lmo;
+	FIELD field857 n I I
+	FIELD field856 q J J
+	FIELD field860 p Lclass292; Lki;
+	METHOD method472 j ()V ()V
+	METHOD method477 h (Ljava/lang/String;)V (Ljava/lang/String;)V
+	METHOD method483 o ()V ()V
+	METHOD method475 n (Lclass293;)Z (Lkq;)Z
+	METHOD method478 e (Ljava/lang/String;)V (Ljava/lang/String;)V
+	METHOD method480 x (Lclass293;)Z (Lkq;)Z
+	METHOD method474 g (Lclass293;Z)Z (Lkq;Z)Z
+	METHOD method476 u (Ljava/lang/String;)V (Ljava/lang/String;)V
+	METHOD method470 m ()Z ()Z
+	METHOD method481 d ()Z ()Z
+	METHOD method479 l (Ljava/lang/String;)V (Ljava/lang/String;)V
+	METHOD method471 q (Lclass310;I)V (Lkn;I)V
+	METHOD method484 kq (Lclass227;)Lclass227; (Lhd;)Lhd;
+	METHOD method482 c ()Z ()Z
+	METHOD <init> <init> (Lclass348;)V (Lmo;)V
+	METHOD method473 p ()V ()V

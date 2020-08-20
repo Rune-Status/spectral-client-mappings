@@ -1,0 +1,7 @@
+CLASS class66 bp
+	FIELD field366 m Lclass102; Lcs;
+	FIELD field367 o I I
+	FIELD field369 j [Ljava/lang/String; [Ljava/lang/String;
+	FIELD field368 q [I [I
+	METHOD <init> <init> ()V ()V
+	METHOD method364 gb ()V ()V

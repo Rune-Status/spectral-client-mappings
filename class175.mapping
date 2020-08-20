@@ -1,0 +1,4 @@
+CLASS class175 fa
+	FIELD field1660 m Lclass175; Lfa;
+	FIELD field1664 p I I
+	METHOD <init> <init> ()V ()V

@@ -1,0 +1,5 @@
+CLASS class344 mu
+	FIELD field3367 m Ljava/util/zip/Inflater; Ljava/util/zip/Inflater;
+	METHOD <init> <init> ()V ()V
+	METHOD <init> <init> (II)V (II)V
+	METHOD method1715 m (Lclass310;[B)V (Lkn;[B)V

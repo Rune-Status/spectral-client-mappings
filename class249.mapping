@@ -1,0 +1,9 @@
+CLASS class249 if
+	FIELD field2693 j I I
+	FIELD field2690 o Lclass249; Lif;
+	FIELD field2692 p I I
+	METHOD <init> <init> (II)V (II)V
+	METHOD <clinit> <clinit> ()V ()V
+	METHOD method1155 ac ()I ()I
+	METHOD method1154 q (II)Lclass102; (II)Lcs;
+	METHOD method968 m ()I ()I

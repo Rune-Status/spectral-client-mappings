@@ -1,0 +1,12 @@
+CLASS class65 bo
+	FIELD field357 q I I
+	FIELD field359 m [[[I [[[I
+	FIELD field358 a [[I [[I
+	FIELD field353 o [[[B [[[B
+	METHOD method360 ib ([Lclass227;IIIIIIII)V ([Lhd;IIIIIIII)V
+	METHOD method362 y (ILclass102;Z)I (ILcs;Z)I
+	METHOD method361 p (IIIZIZ)V (IIIZIZ)V
+	METHOD method363 p (I)V (I)V
+	METHOD <init> <init> ()V ()V
+	METHOD method358 q (Ljava/lang/CharSequence;)I (Ljava/lang/CharSequence;)I
+	METHOD <clinit> <clinit> ()V ()V

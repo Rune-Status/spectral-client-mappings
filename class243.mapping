@@ -1,0 +1,7 @@
+CLASS class243 iq
+	FIELD field2630 m Lclass246; Lig;
+	FIELD field2629 q B B
+	FIELD field2631 o I I
+	METHOD method1102 ij (IIIIIIII)V (IIIIIIII)V
+	METHOD <init> <init> ()V ()V
+	METHOD method1101 g (C)Z (C)Z

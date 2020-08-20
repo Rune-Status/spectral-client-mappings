@@ -1,0 +1,8 @@
+CLASS class77 bj
+	FIELD field457 m Z Z
+	METHOD <init> <init> ()V ()V
+	METHOD equals equals (Ljava/lang/Object;)Z (Ljava/lang/Object;)Z
+	METHOD compare compare (Ljava/lang/Object;Ljava/lang/Object;)I (Ljava/lang/Object;Ljava/lang/Object;)I
+	METHOD method413 m (Lclass17;Lclass17;)I (Ls;Ls;)I
+	METHOD method414 p (ILclass102;Z)I (ILcs;Z)I
+	METHOD method415 fq (Lclass269;III)V (Ljm;III)V

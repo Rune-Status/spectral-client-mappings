@@ -1,0 +1,15 @@
+CLASS class4 j
+	FIELD field7 j I I
+	FIELD field9 g Ljava/lang/Class; Ljava/lang/Class;
+	FIELD field8 p I I
+	FIELD field10 n Lclass1; Lm;
+	FIELD field6 qs Lclass335; Llz;
+	METHOD method968 m ()I ()I
+	METHOD <clinit> <clinit> ()V ()V
+	METHOD method16 o ()[Lclass8; ()[Lu;
+	METHOD method15 ga ()V ()V
+	METHOD <init> <init> (IILjava/lang/Class;Lclass1;)V (IILjava/lang/Class;Lm;)V
+	METHOD method14 o (Lclass310;)Ljava/lang/Object; (Lkn;)Ljava/lang/Object;
+	METHOD method19 w ([B)V ([B)V
+	METHOD method17 q (II)Lclass74; (II)Lbr;
+	METHOD method18 a ()Lclass81; ()Lch;

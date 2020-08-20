@@ -1,0 +1,5 @@
+CLASS class160 fd
+	FIELD field1619 m Ljava/lang/ref/SoftReference; Ljava/lang/ref/SoftReference;
+	METHOD <init> <init> (Ljava/lang/Object;I)V (Ljava/lang/Object;I)V
+	METHOD method876 m ()Ljava/lang/Object; ()Ljava/lang/Object;
+	METHOD method875 o ()Z ()Z

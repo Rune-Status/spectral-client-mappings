@@ -1,0 +1,8 @@
+CLASS class142 er
+	FIELD field1481 q [I [I
+	FIELD field1479 m I I
+	FIELD field1482 j [[I [[I
+	FIELD field1480 o I I
+	METHOD method783 jo ([Lclass227;I)V ([Lhd;I)V
+	METHOD <init> <init> (I[B)V (I[B)V
+	METHOD method784 iz (Z)V (Z)V

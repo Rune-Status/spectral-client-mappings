@@ -1,0 +1,10 @@
+CLASS class327 ln
+	FIELD field3222 o Lclass190; Lgr;
+	FIELD field3224 m Lclass326; Llf;
+	FIELD field3223 q I I
+	FIELD field3221 j Lclass190; Lgr;
+	METHOD <init> <init> (Lclass326;)V (Llf;)V
+	METHOD hasNext hasNext ()Z ()Z
+	METHOD next next ()Ljava/lang/Object; ()Ljava/lang/Object;
+	METHOD remove remove ()V ()V
+	METHOD method1562 g ()V ()V

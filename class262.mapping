@@ -1,0 +1,11 @@
+CLASS class262 jr
+	FIELD field2796 o Lclass155; Lec;
+	FIELD field2800 n I I
+	FIELD field2803 p Ljava/lang/String; Ljava/lang/String;
+	FIELD field2804 z [Ljava/lang/String; [Ljava/lang/String;
+	FIELD field2799 g I I
+	METHOD method1218 j (Lclass310;I)V (Lkn;I)V
+	METHOD <clinit> <clinit> ()V ()V
+	METHOD method1219 q (Lclass310;)V (Lkn;)V
+	METHOD <init> <init> ()V ()V
+	METHOD method1220 p ()I ()I

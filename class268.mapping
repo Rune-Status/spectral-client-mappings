@@ -1,0 +1,7 @@
+CLASS class268 ?
+	FIELD field2974 o Lclass155; Lec;
+	FIELD field2976 w Z Z
+	FIELD field2975 m Lclass244; Lic;
+	METHOD method1274 bk ([BI)I ([BI)I
+	METHOD method1272 j ()V (II)V
+	METHOD <clinit> <clinit> ()V ()V

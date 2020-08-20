@@ -1,0 +1,12 @@
+CLASS class68 bl
+	FIELD field379 j I I
+	FIELD field378 x Ljava/lang/String; Ljava/lang/String;
+	FIELD field374 an Lclass332; Llo;
+	FIELD field375 dw Z Z
+	FIELD field380 o Lclass246; Lig;
+	FIELD field377 sm I I
+	FIELD field376 fy Lclass175; Lfa;
+	FIELD field381 q I I
+	METHOD <init> <init> (Lclass246;Ljava/lang/String;)V (Lig;Ljava/lang/String;)V
+	METHOD method370 j (ILclass102;Z)I (ILcs;Z)I
+	METHOD method368 m ()Z ()Z

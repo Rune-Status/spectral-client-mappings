@@ -1,0 +1,8 @@
+CLASS class80 cb
+	FIELD field814 j I I
+	FIELD field815 m I I
+	FIELD field812 k [[[I [[[I
+	FIELD field813 ak Ljava/awt/Image; Ljava/awt/Image;
+	FIELD field811 c Lclass109; Ldh;
+	METHOD <init> <init> (IIII)V (IIII)V
+	METHOD method443 m (IIII)V (IIII)V

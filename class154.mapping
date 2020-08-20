@@ -1,0 +1,9 @@
+CLASS class154 eb
+	FIELD field1606 q [B [B
+	FIELD field1604 m Ljava/net/URL; Ljava/net/URL;
+	FIELD field1605 o Z Z
+	METHOD method868 q (Ljava/lang/String;ZLjava/lang/String;Z)V (Ljava/lang/String;ZLjava/lang/String;Z)V
+	METHOD <init> <init> (Ljava/net/URL;)V (Ljava/net/URL;)V
+	METHOD method867 m ()Z ()Z
+	METHOD method869 gx (IIII)V (IIII)V
+	METHOD method866 o ()[B ()[B

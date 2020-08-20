@@ -1,0 +1,5 @@
+CLASS class303 kv
+	FIELD field3085 a [[[B [[[B
+	FIELD field3089 q Ljava/util/HashMap; Ljava/util/HashMap;
+	METHOD method1408 m ([Lclass302;)Ljava/util/HashMap; ([Lke;)Ljava/util/HashMap;
+	METHOD <init> <init> (Lclass244;Lclass244;)V (Lic;Lic;)V

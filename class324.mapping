@@ -1,0 +1,6 @@
+CLASS class324 la
+	FIELD field3214 m Z Z
+	METHOD <init> <init> (Z)V (Z)V
+	METHOD equals equals (Ljava/lang/Object;)Z (Ljava/lang/Object;)Z
+	METHOD method1554 m (Lclass284;Lclass284;)I (Ljf;Ljf;)I
+	METHOD compare compare (Ljava/lang/Object;Ljava/lang/Object;)I (Ljava/lang/Object;Ljava/lang/Object;)I

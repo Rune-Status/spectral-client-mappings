@@ -1,0 +1,11 @@
+CLASS class87 cj
+	FIELD field894 a I I
+	FIELD field902 n Lclass269; Ljm;
+	FIELD field897 m I I
+	FIELD field892 si J J
+	FIELD field893 z Z Z
+	FIELD field891 dz Lclass246; Lig;
+	FIELD field901 u I I
+	METHOD method841 a ()Lclass137; ()Lef;
+	METHOD <init> <init> (IIIIIII)V (IIIIIII)V
+	METHOD method492 m (I)V (I)V

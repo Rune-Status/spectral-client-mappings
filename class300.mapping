@@ -1,0 +1,5 @@
+CLASS class300 kr
+	FIELD field3074 m [C [C
+	FIELD field3077 j [I [I
+	METHOD <clinit> <clinit> ()V ()V
+	METHOD <init> <init> ()V ()V

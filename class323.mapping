@@ -1,0 +1,6 @@
+CLASS class323 lx
+	FIELD field3212 n I I
+	FIELD field3213 u I I
+	METHOD <init> <init> (II)V (II)V
+	METHOD <clinit> <clinit> ()V ()V
+	METHOD method968 m ()I ()I

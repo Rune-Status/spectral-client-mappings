@@ -1,0 +1,17 @@
+CLASS class96 cm
+	FIELD field970 d D D
+	FIELD field988 t I I
+	FIELD field980 i I I
+	FIELD field971 e D D
+	FIELD field989 u I I
+	FIELD field992 x Lclass269; Ljm;
+	FIELD field978 b I I
+	FIELD field982 l I I
+	FIELD field968 y Z Z
+	FIELD field983 m I I
+	METHOD method524 m ()V ()V
+	METHOD method525 p (I)Z (I)Z
+	METHOD <init> <init> (IIIIIIIIIII)V (IIIIIIIIIII)V
+	METHOD method522 m (IIII)V (IIII)V
+	METHOD method523 o (I)V (I)V
+	METHOD method841 a ()Lclass137; ()Lef;

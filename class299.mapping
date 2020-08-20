@@ -1,0 +1,5 @@
+CLASS class299 kt
+	FIELD field3072 o [J [J
+	METHOD <clinit> <clinit> ()V ()V
+	METHOD method1403 g (IZ)Ljava/lang/String; (IZ)Ljava/lang/String;
+	METHOD <init> <init> ()V ()V

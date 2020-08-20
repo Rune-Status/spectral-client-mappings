@@ -1,0 +1,6 @@
+CLASS class23 x
+	FIELD field61 gf I I
+	METHOD <init> <init> ()V ()V
+	METHOD method92 j ()V ()V
+	METHOD method93 fe (I)V (I)V
+	METHOD method94 m (II)I (II)I

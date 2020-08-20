@@ -1,0 +1,9 @@
+CLASS class49 aq
+	FIELD field237 gx [[I [[I
+	METHOD method273 im (IIII)V (IIII)V
+	METHOD <init> <init> ()V ()V
+	METHOD equals equals (Ljava/lang/Object;)Z (Ljava/lang/Object;)Z
+	METHOD hashCode hashCode ()I ()I
+	METHOD method268 m (Lclass310;)V (Lkn;)V
+	METHOD method274 o (I)Z (I)Z
+	METHOD method127 o (Lclass310;)V (Lkn;)V

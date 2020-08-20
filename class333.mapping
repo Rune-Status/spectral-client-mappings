@@ -1,0 +1,8 @@
+CLASS class333 lw
+	FIELD field3248 p I I
+	FIELD field3245 m Lclass333; Llw;
+	FIELD field3249 j I I
+	METHOD <init> <init> (II)V (II)V
+	METHOD <clinit> <clinit> ()V ()V
+	METHOD method1601 q (Ljava/lang/Throwable;)Ljava/lang/String; (Ljava/lang/Throwable;)Ljava/lang/String;
+	METHOD method968 m ()I ()I

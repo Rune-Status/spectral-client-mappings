@@ -1,0 +1,7 @@
+CLASS class54 bh
+	FIELD field263 m I I
+	METHOD method303 o (Ljava/awt/Component;)V (Ljava/awt/Component;)V
+	METHOD <init> <init> ()V ()V
+	METHOD method302 m (Ljava/awt/Component;)V (Ljava/awt/Component;)V
+	METHOD mouseWheelMoved mouseWheelMoved (Ljava/awt/event/MouseWheelEvent;)V (Ljava/awt/event/MouseWheelEvent;)V
+	METHOD method922 q ()I ()I

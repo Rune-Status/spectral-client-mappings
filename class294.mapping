@@ -1,0 +1,6 @@
+CLASS class294 kl
+	METHOD <init> <init> ()V ()V
+	METHOD method1388 m (Lclass294;)I (Lkl;)I
+	METHOD method1389 h (Lclass81;)V (Lch;)V
+	METHOD compareTo compareTo (Ljava/lang/Object;)I (Ljava/lang/Object;)I
+	METHOD method1340 ah (Lclass284;)I (Ljf;)I

@@ -1,0 +1,4 @@
+CLASS class106 dw
+	FIELD field1059 m Lclass271; Ljx;
+	METHOD <init> <init> ()V ()V
+	METHOD <clinit> <clinit> ()V ()V

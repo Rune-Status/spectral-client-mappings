@@ -1,0 +1,9 @@
+CLASS class22 t
+	FIELD field59 nf I I
+	FIELD field58 o Z Z
+	FIELD field57 m Lclass176; Lfm;
+	METHOD equals equals (Ljava/lang/Object;)Z (Ljava/lang/Object;)Z
+	METHOD compare compare (Ljava/lang/Object;Ljava/lang/Object;)I (Ljava/lang/Object;Ljava/lang/Object;)I
+	METHOD method90 m (Lclass17;Lclass17;)I (Ls;Ls;)I
+	METHOD <init> <init> ()V ()V
+	METHOD method91 gg (IIIIIII)V (IIIIIII)V

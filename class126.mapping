@@ -1,0 +1,4 @@
+CLASS class126 dz
+	FIELD field1207 m I I
+	FIELD field1208 o I I
+	METHOD <init> <init> ()V ()V

@@ -1,0 +1,7 @@
+CLASS class348 mo
+	FIELD field3381 w Ljava/lang/String; Ljava/lang/String;
+	FIELD field3380 z I I
+	METHOD <clinit> <clinit> ()V ()V
+	METHOD toString toString ()Ljava/lang/String; ()Ljava/lang/String;
+	METHOD <init> <init> (IILjava/lang/String;Ljava/lang/String;)V (IILjava/lang/String;Ljava/lang/String;)V
+	METHOD <init> <init> (IILjava/lang/String;Ljava/lang/String;Z[Lclass348;)V (IILjava/lang/String;Ljava/lang/String;Z[Lmo;)V

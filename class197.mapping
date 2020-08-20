@@ -1,0 +1,11 @@
+CLASS class197 gj
+	FIELD field1941 p [Lclass197; [Lgj;
+	FIELD field1942 g I I
+	FIELD field1944 o I I
+	FIELD field1946 q Lclass309; Lkb;
+	FIELD field1943 m Lclass193; Lgn;
+	FIELD field1945 j I I
+	METHOD method952 a (II)I (II)I
+	METHOD <clinit> <clinit> ()V ()V
+	METHOD <init> <init> ()V ()V
+	METHOD method951 q ()V ()V

@@ -1,0 +1,8 @@
+CLASS class351 mr
+	FIELD field3389 m Ljava/applet/Applet; Ljava/applet/Applet;
+	FIELD field3387 j I I
+	FIELD field3388 q I I
+	FIELD field3390 o Ljava/lang/String; Ljava/lang/String;
+	FIELD field3391 p Ljava/lang/String; Ljava/lang/String;
+	FIELD field3392 g Ljava/lang/Throwable; Ljava/lang/Throwable;
+	METHOD <init> <init> (Ljava/lang/Throwable;Ljava/lang/String;)V (Ljava/lang/Throwable;Ljava/lang/String;)V

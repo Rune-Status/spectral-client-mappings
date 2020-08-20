@@ -1,0 +1,6 @@
+CLASS class16 r
+	FIELD field39 m Ljava/util/List; Ljava/util/List;
+	METHOD method55 m (Ljava/util/Comparator;Z)V (Ljava/util/Comparator;Z)V
+	METHOD <clinit> <clinit> ()V ()V
+	METHOD method56 o (C)Z (C)Z
+	METHOD <init> <init> (Lclass310;Z)V (Lkn;Z)V

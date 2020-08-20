@@ -1,0 +1,8 @@
+CLASS class266 jc
+	FIELD field2933 o Lclass266; Ljc;
+	FIELD field2931 bq Ljava/lang/String; Ljava/lang/String;
+	FIELD field2936 j I I
+	FIELD field2935 p I I
+	METHOD <clinit> <clinit> ()V ()V
+	METHOD <init> <init> (II)V (II)V
+	METHOD method968 m ()I ()I

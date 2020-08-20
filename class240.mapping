@@ -1,0 +1,8 @@
+CLASS class240 ij
+	FIELD field2613 du Lclass246; Lig;
+	FIELD field2615 p Ljava/lang/String; Ljava/lang/String;
+	FIELD field2614 g I I
+	METHOD <clinit> <clinit> ()V ()V
+	METHOD method1095 o (Ljava/lang/String;)Ljava/io/File; (Ljava/lang/String;)Ljava/io/File;
+	METHOD <init> <init> (Ljava/lang/String;I)V (Ljava/lang/String;I)V
+	METHOD method1096 m ()[Lclass195; ()[Lgl;

@@ -1,0 +1,3 @@
+CLASS class281 jb
+	METHOD <init> <init> ()V ()V
+	METHOD method1323 o (Ljava/lang/CharSequence;Lclass348;)Ljava/lang/String; (Ljava/lang/CharSequence;Lmo;)Ljava/lang/String;

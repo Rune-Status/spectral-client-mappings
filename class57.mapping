@@ -1,0 +1,3 @@
+CLASS class57 bf
+	METHOD <init> <init> ()V ()V
+	METHOD method310 m (Ljava/applet/Applet;Ljava/lang/String;)V (Ljava/applet/Applet;Ljava/lang/String;)V

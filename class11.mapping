@@ -1,0 +1,8 @@
+CLASS class11 w
+	FIELD field28 m I I
+	FIELD field30 q Ljava/lang/String; Ljava/lang/String;
+	FIELD field29 o I I
+	METHOD <init> <init> (Lclass310;)V (Lkn;)V
+	METHOD method51 m ()Ljava/lang/String; ()Ljava/lang/String;
+	METHOD method50 o ()I ()I
+	METHOD <init> <init> (IILjava/lang/String;)V (IILjava/lang/String;)V

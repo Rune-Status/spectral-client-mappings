@@ -1,0 +1,5 @@
+CLASS class312 kh
+	METHOD method1526 p (Ljava/lang/String;)Ljava/lang/Class; (Ljava/lang/String;)Ljava/lang/Class;
+	METHOD <init> <init> ()V ()V
+	METHOD method1525 o (IZ)[B (IZ)[B
+	METHOD <clinit> <clinit> ()V ()V

@@ -1,0 +1,4 @@
+CLASS class24 b
+	METHOD <init> <init> ()V ()V
+	METHOD method96 eh (II)V (II)V
+	METHOD method95 ge ()V ()V

@@ -1,0 +1,14 @@
+CLASS class86 ce
+	FIELD field882 n [I [I
+	FIELD field877 d Z Z
+	FIELD field887 j [Ljava/lang/String; [Ljava/lang/String;
+	FIELD field880 e I I
+	FIELD field879 y [Lclass66; [Lbp;
+	FIELD field888 k Ljava/util/Calendar; Ljava/util/Calendar;
+	FIELD field881 w I I
+	FIELD field883 p [I [I
+	FIELD field878 v Z Z
+	FIELD field885 g [[I [[I
+	FIELD field884 q [I [I
+	METHOD <init> <init> ()V ()V
+	METHOD <clinit> <clinit> ()V ()V

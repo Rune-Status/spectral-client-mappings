@@ -1,0 +1,12 @@
+CLASS class60 bb
+	FIELD field287 j [B [B
+	FIELD field290 o Ljavax/sound/sampled/SourceDataLine; Ljavax/sound/sampled/SourceDataLine;
+	FIELD field288 q I I
+	FIELD field289 m Ljavax/sound/sampled/AudioFormat; Ljavax/sound/sampled/AudioFormat;
+	METHOD method612 j ()V ()V
+	METHOD <init> <init> ()V ()V
+	METHOD method611 p ()V ()V
+	METHOD method614 g ()V ()V
+	METHOD method616 o (I)V (I)V
+	METHOD method610 m ()V ()V
+	METHOD method615 q ()I ()I

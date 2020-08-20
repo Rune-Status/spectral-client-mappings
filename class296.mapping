@@ -1,0 +1,7 @@
+CLASS class296 kd
+	FIELD field3067 c Lclass180; Lfb;
+	FIELD field3068 q I I
+	FIELD field3069 j Lclass293; Lkq;
+	FIELD field3070 p S S
+	METHOD <init> <init> (Lclass293;I)V (Lkq;I)V
+	METHOD method1399 m (Ljava/lang/CharSequence;Ljava/lang/CharSequence;Lclass200;)I (Ljava/lang/CharSequence;Ljava/lang/CharSequence;Lgz;)I

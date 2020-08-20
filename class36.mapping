@@ -1,0 +1,27 @@
+CLASS class36 ad
+	FIELD field160 q Ljava/lang/String; Ljava/lang/String;
+	FIELD field150 w Z Z
+	FIELD field156 p I I
+	FIELD field149 aa Z Z
+	FIELD field161 y Ljava/util/LinkedList; Ljava/util/LinkedList;
+	FIELD field159 o Ljava/lang/String; Ljava/lang/String;
+	FIELD field153 j I I
+	FIELD field151 g Lclass223; Lhg;
+	FIELD field154 m I I
+	METHOD method152 c ()I ()I
+	METHOD method147 n ()V ()V
+	METHOD <init> <init> ()V ()V
+	METHOD method144 m (Lclass310;I)V (Lkn;I)V
+	METHOD method157 l ()I ()I
+	METHOD method159 x ()Lclass223; ()Lhg;
+	METHOD method165 hf (II)V (II)V
+	METHOD method150 w ()Ljava/lang/String; ()Ljava/lang/String;
+	METHOD method160 p (III)[I (III)[I
+	METHOD method163 a ()Z ()Z
+	METHOD method151 y ()I ()I
+	METHOD method148 u ()I ()I
+	METHOD method164 g (II)Lclass223; (II)Lhg;
+	METHOD method145 o (Lclass310;)Lclass47; (Lkn;)Law;
+	METHOD method146 j (II)Z (II)Z
+	METHOD method149 z ()Ljava/lang/String; ()Ljava/lang/String;
+	METHOD method154 q (III)Z (III)Z

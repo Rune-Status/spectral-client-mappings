@@ -1,0 +1,4 @@
+CLASS class26 f
+	FIELD field64 ns [Lclass227; [Lhd;
+	METHOD <init> <init> ()V ()V
+	METHOD method100 ke (I)V (I)V

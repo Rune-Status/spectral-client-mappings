@@ -1,0 +1,9 @@
+CLASS class206 gp
+	FIELD field1991 q I I
+	FIELD field1986 a I I
+	FIELD field1983 fj Lclass305; Lko;
+	FIELD field1992 u I I
+	FIELD field1989 n I I
+	METHOD <init> <init> ()V ()V
+	METHOD method971 ev ()I ()I
+	METHOD method970 gs (Lclass78;)V (Lbt;)V

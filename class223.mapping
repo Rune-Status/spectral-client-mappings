@@ -1,0 +1,13 @@
+CLASS class223 hg
+	FIELD field2089 m I I
+	METHOD method1055 o (Lclass223;)Z (Lhg;)Z
+	METHOD method1057 q (Ljava/lang/String;)Ljava/lang/String; (Ljava/lang/String;)Ljava/lang/String;
+	METHOD <init> <init> (Lclass223;)V (Lhg;)V
+	METHOD method1056 m ()I ()I
+	METHOD method1058 am ([B)[B ([B)[B
+	METHOD hashCode hashCode ()I ()I
+	METHOD method1059 iy (Lclass227;IIIIII)V (Lhd;IIIIII)V
+	METHOD <init> <init> (I)V (I)V
+	METHOD <init> <init> (III)V (III)V
+	METHOD toString toString ()Ljava/lang/String; ()Ljava/lang/String;
+	METHOD equals equals (Ljava/lang/Object;)Z (Ljava/lang/Object;)Z

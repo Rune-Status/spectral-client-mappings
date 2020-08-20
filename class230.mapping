@@ -1,0 +1,6 @@
+CLASS class230 hp
+	FIELD field2268 x Lclass230; Lhp;
+	FIELD field2287 b I I
+	METHOD <init> <init> (I)V (I)V
+	METHOD method968 m ()I ()I
+	METHOD <clinit> <clinit> ()V ()V

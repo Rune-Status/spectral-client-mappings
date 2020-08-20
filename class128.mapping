@@ -1,0 +1,3 @@
+CLASS class128 ?
+	FIELD field1236 s I Ldf;
+	METHOD <init> <init> ()V ()V

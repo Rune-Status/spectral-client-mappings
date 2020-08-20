@@ -1,0 +1,11 @@
+CLASS class162 ft
+	FIELD field1622 bw Lclass200; Lgz;
+	FIELD field1623 m Z Z
+	FIELD field1621 e Lclass310; Lkn;
+	METHOD method890 m ()[Lclass194; ()[Lgx;
+	METHOD <init> <init> (Z)V (Z)V
+	METHOD method891 o (Lclass244;IIIZ)V (Lic;IIIZ)V
+	METHOD method888 m (Lclass289;Lclass289;)I (Lkx;Lkx;)I
+	METHOD method892 fx (I)V (I)V
+	METHOD method889 o ()V ()V
+	METHOD compare compare (Ljava/lang/Object;Ljava/lang/Object;)I (Ljava/lang/Object;Ljava/lang/Object;)I

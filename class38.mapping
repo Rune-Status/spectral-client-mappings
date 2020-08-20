@@ -1,0 +1,14 @@
+CLASS class38 ar
+	FIELD field171 ez I I
+	FIELD field173 fm Lclass305; Lko;
+	FIELD field177 m Ljava/lang/String; Ljava/lang/String;
+	FIELD field169 y Lclass244; Lic;
+	FIELD field174 j Lclass27; Lah;
+	METHOD method171 q (I)J (I)J
+	METHOD method176 m (I)Z (I)Z
+	METHOD method177 ff ()V ()V
+	METHOD <init> <init> (Ljava/lang/String;IILclass27;)V (Ljava/lang/String;IILah;)V
+	METHOD method172 u (I)I (I)I
+	METHOD method174 o (Lclass72;I)V (Lbu;I)V
+	METHOD method173 il (Lclass227;II)V (Lhd;II)V
+	METHOD method175 jv (III)Lclass71; (III)Lbz;

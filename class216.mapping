@@ -1,0 +1,6 @@
+CLASS class216 hk
+	FIELD field2072 m Ljava/nio/ByteBuffer; Ljava/nio/ByteBuffer;
+	METHOD method1039 j ()[B ()[B
+	METHOD <init> <init> ()V ()V
+	METHOD method1040 p ([B)V ([B)V
+	METHOD method1041 gl (Lclass79;I)V (Lcc;I)V

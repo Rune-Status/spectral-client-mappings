@@ -1,0 +1,4 @@
+CLASS class350 md
+	FIELD field3386 w Lclass244; Lic;
+	FIELD field3385 m Lclass244; Lic;
+	METHOD <init> <init> ()V ()V

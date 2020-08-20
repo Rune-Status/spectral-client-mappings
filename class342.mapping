@@ -1,0 +1,10 @@
+CLASS class342 ml
+	FIELD field3307 u Z Z
+	FIELD field3310 p Ljava/lang/String; Ljava/lang/String;
+	FIELD field3309 n I I
+	FIELD field3308 g Lclass244; Lic;
+	METHOD method1653 o ()I ()I
+	METHOD method1652 j ()I ()I
+	METHOD method1655 m (Ljava/lang/String;)V (Ljava/lang/String;)V
+	METHOD <init> <init> (Lclass244;)V (Lic;)V
+	METHOD method1654 q ()Z ()Z

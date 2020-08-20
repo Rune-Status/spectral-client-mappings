@@ -1,0 +1,7 @@
+CLASS class213 hz
+	FIELD field2070 o [B [B
+	FIELD field2071 m Lclass328; Lle;
+	METHOD method1036 o ()V ()V
+	METHOD method1037 q ()V ()V
+	METHOD method1038 m (Lclass244;II)Lclass213; (Lic;II)Lhz;
+	METHOD <init> <init> (Lclass310;)V (Lkn;)V

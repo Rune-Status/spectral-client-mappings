@@ -1,0 +1,5 @@
+CLASS class320 ls
+	FIELD field3192 j I I
+	FIELD field3189 o Lclass320; Lls;
+	METHOD <init> <init> (I)V (I)V
+	METHOD <clinit> <clinit> ()V ()V

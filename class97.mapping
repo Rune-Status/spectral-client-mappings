@@ -1,0 +1,10 @@
+CLASS class97 cf
+	FIELD field994 o I I
+	FIELD field993 m I I
+	METHOD method530 k (I)I (I)I
+	METHOD method529 m (Lclass244;)V (Lic;)V
+	METHOD <init> <init> ()V ()V
+	METHOD method526 gp (IIIIIIIII)V (IIIIIIIII)V
+	METHOD method528 m (Lclass244;I)Lclass211; (Lic;I)Lhi;
+	METHOD method531 fs ()V ()V
+	METHOD method841 a ()Lclass137; ()Lef;

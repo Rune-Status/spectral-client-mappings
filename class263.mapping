@@ -1,0 +1,21 @@
+CLASS class263 js
+	FIELD field2811 a I I
+	FIELD field2826 x I I
+	FIELD field2807 p Lclass155; Lec;
+	FIELD field2808 m Lclass244; Lic;
+	FIELD field2806 j Lclass155; Lec;
+	FIELD field2805 g Lclass155; Lec;
+	FIELD field2809 o Lclass244; Lic;
+	FIELD field2810 q Lclass244; Lic;
+	FIELD field2824 h I I
+	FIELD field2827 i [I [I
+	FIELD field2819 t Ljava/lang/String; Ljava/lang/String;
+	FIELD field2818 y I I
+	METHOD method1222 q ()Lclass263; ()Ljs;
+	METHOD method1228 a ()Lclass305; ()Lko;
+	METHOD <init> <init> ()V ()V
+	METHOD method1227 o (Lclass310;I)V (Lkn;I)V
+	METHOD method1229 m (Lclass310;)V (Lkn;)V
+	METHOD <clinit> <clinit> ()V ()V
+	METHOD method1230 m (Lclass309;)V (Lkb;)V
+	METHOD method1225 j (I)Ljava/lang/String; (I)Ljava/lang/String;

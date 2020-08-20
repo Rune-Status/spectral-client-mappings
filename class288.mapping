@@ -1,0 +1,6 @@
+CLASS class288 kc
+	FIELD field3046 m I I
+	METHOD method1373 m (Lclass288;)I (Lkc;)I
+	METHOD method1340 ah (Lclass284;)I (Ljf;)I
+	METHOD compareTo compareTo (Ljava/lang/Object;)I (Ljava/lang/Object;)I
+	METHOD <init> <init> ()V ()V

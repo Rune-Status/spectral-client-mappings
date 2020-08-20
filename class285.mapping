@@ -1,0 +1,6 @@
+CLASS class285 ?
+	FIELD field3038 o Ljava/util/Comparator; Ljava/util/Comparator;
+	METHOD equals equals (Ljava/lang/Object;)Z (Ljava/lang/Object;)Z
+	METHOD method1347 a (Lclass284;Lclass284;)I (Ljf;Ljf;)I
+	METHOD method1346 u (Ljava/util/Comparator;)V (Ljava/util/Comparator;)V
+	METHOD <init> <init> ()V ()V

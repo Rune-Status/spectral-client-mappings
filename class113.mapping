@@ -1,0 +1,9 @@
+CLASS class113 dp
+	FIELD field1117 o [B [B
+	FIELD field1119 q I I
+	FIELD field1118 m I I
+	FIELD field1116 p Z Z
+	FIELD field1115 j I I
+	METHOD <init> <init> (I[BIIZ)V (I[BIIZ)V
+	METHOD method596 m (Lclass122;)Lclass113; (Ldv;)Ldp;
+	METHOD <init> <init> (I[BII)V (I[BII)V

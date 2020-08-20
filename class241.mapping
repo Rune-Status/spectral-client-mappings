@@ -1,0 +1,8 @@
+CLASS class241 ib
+	FIELD field2623 u I I
+	FIELD field2624 n Ljava/lang/String; Ljava/lang/String;
+	METHOD <init> <init> (Ljava/lang/String;Ljava/lang/String;I)V (Ljava/lang/String;Ljava/lang/String;I)V
+	METHOD method1098 ih (IIIII)V (IIIII)V
+	METHOD method968 m ()I ()I
+	METHOD <clinit> <clinit> ()V ()V
+	METHOD method1097 m (I)Lclass267; (I)Ljz;

@@ -1,0 +1,9 @@
+CLASS class251 iy
+	FIELD field2697 o I I
+	FIELD field2700 j I I
+	FIELD field2698 q Lclass155; Lec;
+	FIELD field2699 m Lclass244; Lic;
+	METHOD method1161 q (Lclass310;)V (Lkn;)V
+	METHOD method1160 j (Lclass310;I)V (Lkn;I)V
+	METHOD <init> <init> ()V ()V
+	METHOD <clinit> <clinit> ()V ()V

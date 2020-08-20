@@ -1,0 +1,10 @@
+CLASS class45 at
+	FIELD field215 j Lclass45; Lat;
+	FIELD field209 m Lclass45; Lat;
+	FIELD field216 g Ljava/lang/String; Ljava/lang/String;
+	FIELD field213 ga I I
+	FIELD field211 p Lclass45; Lat;
+	METHOD method241 q (ILclass318;Lclass246;)V (ILlp;Lig;)V
+	METHOD <init> <init> (Ljava/lang/String;)V (Ljava/lang/String;)V
+	METHOD <clinit> <clinit> ()V ()V
+	METHOD method242 m (Lclass310;)Ljava/lang/Integer; (Lkn;)Ljava/lang/Integer;

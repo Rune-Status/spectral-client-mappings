@@ -1,0 +1,17 @@
+CLASS class85 cn
+	FIELD field862 m Lclass272; Ljp;
+	FIELD field865 c I I
+	FIELD field875 y [I [I
+	FIELD field864 h Lclass123; Ldk;
+	FIELD field872 u I I
+	FIELD field863 a Lclass123; Ldk;
+	FIELD field868 n I I
+	FIELD field876 k Lclass264; Ljg;
+	METHOD method485 o ()V ()V
+	METHOD <clinit> <clinit> ()V ()V
+	METHOD method488 r ()V ()V
+	METHOD method490 w (J)V (J)V
+	METHOD method489 m (ILjava/lang/String;Ljava/lang/String;)V (ILjava/lang/String;Ljava/lang/String;)V
+	METHOD <init> <init> ()V ()V
+	METHOD method486 m (Lclass244;)V (Lic;)V
+	METHOD method487 z ()V ()V

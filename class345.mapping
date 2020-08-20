@@ -1,0 +1,4 @@
+CLASS class345 mh
+	FIELD field3368 m [I [I
+	METHOD <init> <init> ([I)V ([I)V
+	METHOD method1716 m (I)I (I)I

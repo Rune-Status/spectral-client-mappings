@@ -1,0 +1,4 @@
+CLASS class258 iz
+	FIELD field2780 o [Lclass252; [Lih;
+	METHOD <init> <init> ()V ()V
+	METHOD method1200 o (II)V (II)V

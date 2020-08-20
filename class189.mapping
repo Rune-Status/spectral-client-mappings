@@ -1,0 +1,3 @@
+CLASS class189 gc
+	FIELD field1725 m I I
+	METHOD <init> <init> (I)V (I)V

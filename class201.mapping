@@ -1,0 +1,4 @@
+CLASS class201 gi
+	METHOD <clinit> <clinit> ()V ()V
+	METHOD <init> <init> ()V ()V
+	METHOD method965 ao (IZI)V (IZI)V

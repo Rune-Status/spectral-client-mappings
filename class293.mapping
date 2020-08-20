@@ -1,0 +1,12 @@
+CLASS class293 kq
+	FIELD field3057 o Ljava/lang/String; Ljava/lang/String;
+	FIELD field3056 m Ljava/lang/String; Ljava/lang/String;
+	METHOD method1387 j (Ljava/lang/CharSequence;I)I (Ljava/lang/CharSequence;I)I
+	METHOD method1384 m ()Ljava/lang/String; ()Ljava/lang/String;
+	METHOD compareTo compareTo (Ljava/lang/Object;)I (Ljava/lang/Object;)I
+	METHOD <init> <init> (Ljava/lang/String;Lclass348;)V (Ljava/lang/String;Lmo;)V
+	METHOD hashCode hashCode ()I ()I
+	METHOD method1385 o ()Z ()Z
+	METHOD equals equals (Ljava/lang/Object;)Z (Ljava/lang/Object;)Z
+	METHOD toString toString ()Ljava/lang/String; ()Ljava/lang/String;
+	METHOD method1386 q (Lclass293;)I (Lkq;)I

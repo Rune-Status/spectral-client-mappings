@@ -1,0 +1,6 @@
+CLASS class332 ?
+	FIELD field3242 j I I
+	FIELD field3243 p I I
+	FIELD field3244 q [I [I
+	METHOD <init> <init> ()V ()V
+	METHOD method1599 k ()V ()V

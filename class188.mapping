@@ -1,0 +1,5 @@
+CLASS class188 gd
+	FIELD field1724 o Lclass188; Lgd;
+	FIELD field1723 m Lclass188; Lgd;
+	METHOD <init> <init> ()V ()V
+	METHOD method944 m ()V ()V

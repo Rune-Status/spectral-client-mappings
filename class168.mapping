@@ -1,0 +1,6 @@
+CLASS class168 fn
+	FIELD field1637 m Z Z
+	METHOD compare compare (Ljava/lang/Object;Ljava/lang/Object;)I (Ljava/lang/Object;Ljava/lang/Object;)I
+	METHOD method907 ka (Ljava/lang/String;)Ljava/lang/String; (Ljava/lang/String;)Ljava/lang/String;
+	METHOD method906 m (Lclass289;Lclass289;)I (Lkx;Lkx;)I
+	METHOD <init> <init> (Z)V (Z)V

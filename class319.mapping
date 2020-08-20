@@ -1,0 +1,15 @@
+CLASS class319 li
+	FIELD field3187 o Ljava/io/InputStream; Ljava/io/InputStream;
+	FIELD field3184 p I I
+	FIELD field3188 m Ljava/lang/Thread; Ljava/lang/Thread;
+	FIELD field3182 j [B [B
+	FIELD field3185 q I I
+	FIELD field3186 n Ljava/io/IOException; Ljava/io/IOException;
+	FIELD field3183 g I I
+	METHOD run run ()V ()V
+	METHOD method1550 q ()I ()I
+	METHOD method1551 p ()V ()V
+	METHOD method1549 o ()I ()I
+	METHOD <init> <init> (Ljava/io/InputStream;I)V (Ljava/io/InputStream;I)V
+	METHOD method1552 m (I)Z (I)Z
+	METHOD method1548 j ([BII)I ([BII)I

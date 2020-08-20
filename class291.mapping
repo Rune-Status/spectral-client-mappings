@@ -1,0 +1,7 @@
+CLASS class291 kf
+	FIELD field3050 m Lclass291; Lkf;
+	FIELD field3051 o Lclass291; Lkf;
+	FIELD field3052 q Lclass291; Lkf;
+	METHOD <clinit> <clinit> ()V ()V
+	METHOD <init> <init> ()V ()V
+	METHOD method1381 q (Lclass309;)V (Lkb;)V

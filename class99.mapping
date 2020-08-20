@@ -1,0 +1,14 @@
+CLASS class99 cd
+	FIELD field999 q [B [B
+	FIELD field1001 g I I
+	FIELD field1010 p [Lclass310; [Lkn;
+	FIELD field1009 k Lclass310; Lkn;
+	FIELD field1003 a [I [I
+	FIELD field1004 h [I [I
+	FIELD field1002 u I I
+	FIELD field998 j [B [B
+	FIELD field1000 c I I
+	METHOD method540 o (III)I (III)I
+	METHOD <init> <init> ()V ()V
+	METHOD method539 q ()V ()V
+	METHOD <clinit> <clinit> ()V ()V

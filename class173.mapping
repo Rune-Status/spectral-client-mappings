@@ -1,0 +1,5 @@
+CLASS class173 fs
+	FIELD field1650 m J J
+	METHOD <init> <init> ()V ()V
+	METHOD method923 m ()V ()V
+	METHOD method924 o (II)I (II)I

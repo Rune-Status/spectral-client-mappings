@@ -1,0 +1,5 @@
+CLASS class192 gu
+	FIELD field1815 cj I I
+	FIELD field1816 ck I I
+	METHOD <init> <init> (II)V (II)V
+	METHOD <clinit> <clinit> ()V ()V

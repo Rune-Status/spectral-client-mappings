@@ -1,0 +1,5 @@
+CLASS class205 gk
+	FIELD field1982 ae Ljava/awt/Font; Ljava/awt/Font;
+	METHOD <init> <init> ()V ()V
+	METHOD <clinit> <clinit> ()V ()V
+	METHOD method969 o (II)I (II)I

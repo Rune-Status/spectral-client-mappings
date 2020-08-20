@@ -1,0 +1,10 @@
+CLASS class61 bw
+	FIELD field294 o Ljava/lang/String; Ljava/lang/String;
+	FIELD field291 kf Lclass76; Lby;
+	FIELD field292 qh Lclass108; Ldd;
+	FIELD field293 m Ljava/applet/Applet; Ljava/applet/Applet;
+	METHOD method320 g ()V ()V
+	METHOD <init> <init> ()V ()V
+	METHOD <clinit> <clinit> ()V ()V
+	METHOD method319 o (Lclass309;I)V (Lkb;I)V
+	METHOD method318 jc (Lclass227;II)V (Lhd;II)V

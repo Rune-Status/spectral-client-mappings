@@ -1,0 +1,12 @@
+CLASS class245 ip
+	FIELD field2649 q I I
+	FIELD field2653 o Lclass272; Ljp;
+	FIELD field2651 p Ljava/lang/Thread; Ljava/lang/Thread;
+	FIELD field2650 j Ljava/lang/Object; Ljava/lang/Object;
+	FIELD field2652 m Lclass272; Ljp;
+	METHOD run run ()V ()V
+	METHOD method1133 m (I)Z (I)Z
+	METHOD <init> <init> ()V ()V
+	METHOD method1135 m (Lclass244;Lclass244;)I (Lic;Lic;)I
+	METHOD method1134 fh (Ljava/lang/String;Z)V (Ljava/lang/String;Z)V
+	METHOD <clinit> <clinit> ()V ()V

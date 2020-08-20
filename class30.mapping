@@ -1,0 +1,10 @@
+CLASS class30 ae
+	FIELD field101 g B B
+	FIELD field94 au Lclient; Lclient;
+	FIELD field102 p I I
+	METHOD method117 p ()V ()V
+	METHOD <init> <init> (IB)V (IB)V
+	METHOD <clinit> <clinit> ()V ()V
+	METHOD method968 m ()I ()I
+	METHOD method116 j (ILclass244;Ljava/lang/String;Ljava/lang/String;IZ)V (ILic;Ljava/lang/String;Ljava/lang/String;IZ)V
+	METHOD method118 o (Ljava/lang/String;ZZ)V (Ljava/lang/String;ZZ)V

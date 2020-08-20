@@ -1,0 +1,18 @@
+CLASS class81 ch
+	FIELD field827 y I I
+	FIELD field829 k Ljava/lang/String; Ljava/lang/String;
+	FIELD field818 g I I
+	FIELD field826 w I I
+	FIELD field828 h Ljava/lang/String; Ljava/lang/String;
+	FIELD field819 n I I
+	FIELD field823 c I I
+	FIELD field824 r I I
+	FIELD field825 s I I
+	FIELD field822 po Lclass320; Lls;
+	METHOD method450 z ()Z ()Z
+	METHOD method444 y ()Z ()Z
+	METHOD method451 z (Lclass305;Lclass305;Lclass305;)V (Lko;Lko;Lko;)V
+	METHOD <clinit> <clinit> ()V ()V
+	METHOD method448 c ()Z ()Z
+	METHOD method449 w ()Z ()Z
+	METHOD <init> <init> ()V ()V

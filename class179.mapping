@@ -1,0 +1,6 @@
+CLASS class179 fl
+	FIELD field1681 o Ljava/io/File; Ljava/io/File;
+	FIELD field1680 m Z Z
+	FIELD field1682 q Ljava/util/Hashtable; Ljava/util/Hashtable;
+	METHOD <init> <init> ()V ()V
+	METHOD <clinit> <clinit> ()V ()V

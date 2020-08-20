@@ -1,0 +1,10 @@
+CLASS class9 a
+	FIELD field20 o Lclass13; Lc;
+	FIELD field19 fo Lclass315; Llj;
+	FIELD this$0 this$0 Lclass10; Lz;
+	FIELD field21 m Lclass310; Lkn;
+	METHOD method42 p (II)I (II)I
+	METHOD call call ()Ljava/lang/Object; ()Ljava/lang/Object;
+	METHOD <init> <init> (Lclass10;Lclass310;Lclass13;)V (Lz;Lkn;Lc;)V
+	METHOD method40 gh (ZLclass309;)V (ZLkb;)V
+	METHOD method41 m (Lclass244;)V (Lic;)V

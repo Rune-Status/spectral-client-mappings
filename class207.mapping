@@ -1,0 +1,6 @@
+CLASS class207 gs
+	FIELD field1996 a I I
+	FIELD field1998 p I I
+	METHOD <init> <init> ()V ()V
+	METHOD <clinit> <clinit> ()V ()V
+	METHOD method972 a (IIIZI)J (IIIZI)J
